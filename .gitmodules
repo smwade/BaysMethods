@@ -4,3 +4,6 @@
 [submodule "repos/hoff-bayesian-statistics"]
 	path = repos/hoff-bayesian-statistics
 	url = https://github.com/jayelm/hoff-bayesian-statistics
+[submodule "repos/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers"]
+	path = repos/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
+	url = https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
