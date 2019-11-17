@@ -1,0 +1,12 @@
+[submodule "BDA_py_demos"]
+	path = BDA_py_demos
+	url = ./repos/BDA_py_demos/
+[submodule "hoff-bayesian-statistics"]
+	path = hoff-bayesian-statistics
+	url = ./repos/hoff-bayesian-statistics/
+[submodule "repos/BDA_py_demos"]
+	path = repos/BDA_py_demos
+	url = https://github.com/avehtari/BDA_py_demos
+[submodule "repos/hoff-bayesian-statistics"]
+	path = repos/hoff-bayesian-statistics
+	url = https://github.com/jayelm/hoff-bayesian-statistics
